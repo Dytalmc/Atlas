@@ -1,21 +1,23 @@
-MIT License
+MIT License / Proprietary Copyright Notice
 
-Copyright (c) 2026 Dytalmc
+Copyright (c) 2026 Anish Sandeep Bhargav
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Company: NeuraX
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This software and associated documentation files (the "Software") are the exclusive intellectual property of Anish Sandeep Bhargav and NeuraX.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The following rights are granted to the copyright holder only:
+- All copyright, patent, trade secret, and other intellectual property rights in and to the Software are retained exclusively by Anish Sandeep Bhargav and NeuraX.
+- No license, permission, or rights are granted to any third party to use, copy, modify, merge, publish, distribute, sublicense, or sell the Software unless expressly written and signed by the copyright holder.
+- Any unauthorized use, reproduction, modification, distribution, or commercial exploitation is prohibited.
+
+No warranty is provided. The Software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+In no event shall the author or company be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+For licensing, commercial use, or written permission requests, contact:
+Anish Sandeep Bhargav
+NeuraX
+
+This file is intended to declare ownership and reserve all rights to the copyright holder. If you prefer a different license structure (for example, a full permissive MIT license with your ownership retained), I can convert this file to that exact wording as well.
